@@ -9,7 +9,6 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a dataset 
 - NumPy
 - Matplotlib
 - Seaborn
-
 ## 📊 EDA Steps Performed
 - Data cleaning and preprocessing
 - Handling missing values
